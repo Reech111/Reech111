@@ -1,4 +1,4 @@
-<h1>Hi, I'm  David! <br/><a href="https://github.com/joshmadakor1">Programmer</a> and <a href="https://www.linkedin.com/in/joshmadakor/">Electrical Engineer</a>.
+<h1>Hi, I'm  David! <br/><a href="https://github.com/Reech111">Programmer</a> and <a href="">Electrical Engineer</a>.
 
 <h2> skills:</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
