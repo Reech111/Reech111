@@ -1,49 +1,72 @@
-<h1>Hi, I'm  David! <br/><a href="https://github.com/Reech111">Programmer</a> and <a href="">Electrical Engineer</a>.
-I am a Junior Software Developer with a passion for building backend APIs and contributing to open-source. My goal is to make tech more inclusive and accessible.
+<h1 align="center">Hi there 👋, I'm Joseph David</h1>
 
-<h2> skills:</h2>
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <em>
+    Backend Developer | ALX Learner | Impact-Driven Technologist
+  </em>
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
+### 🚀 About Me
 
-<h2> 🤳 Connect with me:</h2>
+I'm a passionate backend developer currently enrolled in the <strong>ALX Software Engineering program</strong>, building a strong foundation in backend systems, real-world projects, and clean coding principles.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+💡 I got into software engineering to <strong>impact lives through tech</strong> and build a <strong>financially stable lifestyle</strong>. My mission is to create solutions that serve communities, empower others, and solve real-world problems.
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ What I'm Working On
 
-Here are some ideas to get you started:
+I'm currently building a REST API to support a <strong>school management system for rural areas</strong> where online access is limited.  
+The system will handle:
+- ✅ Student Registration  
+- 📆 Attendance Tracking  
+- 📩 SMS-based Parent Notifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in using tech for social good, and this project is just one of many steps in that direction.
+
+---
+
+### 🔨 Tech Stack & Tools
+
+<code>Python</code> | <code>Flask</code> | <code>Django</code> | <code>PostgreSQL</code> | <code>Docker</code> | <code>Git</code> | <code>Linux</code>  
+<code>RESTful APIs</code> | <code>CI/CD</code> | <code>AWS (Basics)</code> | <code>GitHub Actions</code>  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 My Goals
+
+- ✅ Master backend engineering principles
+- 🔄 Build and document real-world projects
+- 🧑‍🤝‍🧑 Begin mentoring peers and supporting new learners
+- 📢 Share my journey to inspire others
+
+---
+
+### 📬 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">🌐 LinkedIn</a> |
+  <a href="mailto:your.email@example.com">✉️ Email</a> |
+  <a href="https://twitter.com/yourhandle">🐦 Twitter</a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+
+<em>I believe that tech can change the world. The best way to start is to solve problems in the communities that shaped you.</em>
+
+---
+
