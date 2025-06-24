@@ -1,4 +1,5 @@
 <h1>Hi, I'm  David! <br/><a href="https://github.com/Reech111">Programmer</a> and <a href="">Electrical Engineer</a>.
+I am a Junior Software Developer with a passion for building backend APIs and contributing to open-source. My goal is to make tech more inclusive and accessible.
 
 <h2> skills:</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
