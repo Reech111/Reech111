@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a passionate backend developer currently enrolled in the <strong>ALX Software Engineering program</strong>, building a strong foundation in backend systems, real-world projects, and clean coding principles.
 
@@ -16,7 +16,7 @@ I'm a passionate backend developer currently enrolled in the <strong>ALX Softwar
 
 ---
 
-### 🛠️ What I'm Working On
+### 🛠 What I'm Working On
 
 I'm currently building a REST API to support a <strong>school management system for rural areas</strong> where online access is limited.  
 The system will handle:
@@ -28,7 +28,7 @@ I believe in using tech for social good, and this project is just one of many st
 
 ---
 
-### 🔨 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <code>Python</code> | <code>Flask</code> | <code>Django</code> | <code>PostgreSQL</code> | <code>Docker</code> | <code>Git</code> | <code>Linux</code>  
 <code>RESTful APIs</code> | <code>CI/CD</code> | <code>AWS (Basics)</code> | <code>GitHub Actions</code>  
@@ -64,7 +64,7 @@ I believe in using tech for social good, and this project is just one of many st
 
 ---
 
-### 🧠 Fun Fact
+###  Fun Fact
 
 <em>I believe that tech can change the world. The best way to start is to solve problems in the communities that shaped you.</em>
 
